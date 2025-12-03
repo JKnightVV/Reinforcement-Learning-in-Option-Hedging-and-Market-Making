@@ -1,3 +1,9 @@
+BTC 量化交易模拟与RL对冲系统
+
+项目概述
+这是一个完整的比特币（BTC）量化交易模拟系统，包含价格模拟、做市商策略、期权定价和强化学习对冲策略。项目通过6个笔记本逐步构建了一个完整的量化交易生态系统。
+
+项目结构
 ├─ 01_data_and_stylized_facts.ipynb
 
 ├─ 02_btc_simulator_qed_hawkes.ipynb
@@ -53,3 +59,5 @@
 
 环境要求
 pip install numpy pandas matplotlib scipy torch
+
+
